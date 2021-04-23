@@ -1,0 +1,3 @@
+Pillow==8.2.0
+pyzbar==0.1.8
+qrtools==0.0.2
